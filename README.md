@@ -92,9 +92,9 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anusha-2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
   <br>
-  <p align="center">
+<!--   <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=anusha-2002">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusha-2002" alt="anusha-2002" style="max-width: 100%;">
   </a>
-</p>
+</p> -->
 </div>
