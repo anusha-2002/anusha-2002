@@ -20,12 +20,12 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
 <p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification<br><br>📚 Active member of <br>   -> Women in Cyber Security<br>   -> Women in Cloud
   <p>🖥 All my projects are available on <a href="https://github.com/anusha-2002?tab=repositories">Github</a><br>
-  📄 view my resume <a href="https://drive.google.com/file/d/1AI8YG1uEN-Rdx5vZYeI3Tqrl_uusyv90/view?usp=drive_link" target="_blank">here</a>.
+  📄 view my resume <a href="https://drive.google.com/file/d/1AI8YG1uEN-Rdx5vZYeI3Tqrl_uus" target="_blank">here</a>.
 </p>
 
   📞 How to reach me: 
 <a href="mailto:venkateshanusha2002@gmail.com">venkateshanusha2002@gmail.com</a> | 
-<a href="mailto:avenkatesh2@hawk.iit.edu">avenkatesh2@hawk.iit.edu</a>  
+<a href="mailto:avenkatesh2@hawk.iit.edu">avenkatesh2@hawk.illinoistech.edu</a>  
 <br>
 🙋🏻‍♀️ I'm also on: <a href="https://www.linkedin.com/in/anusha-venkatesh-794290271/" target="_blank">LinkedIn</a> <br>
 
